@@ -38,7 +38,9 @@ Currently, I am preparing for the **CompTIA Security+** and **eJPTv2** certifica
 - **📜 Google Cybersecurity Certificate**  
   📅 *Completion: December 2024*
   
-- **🔒 CompTIA Security+** (*In Progress*)
+- **🔒 CompTIA Security+**
+  📅 *Completion: May 2025*
+  
 - **💻 eJPTv2 (eLearnSecurity Junior Penetration Tester v2)** (*In Progress*)
 
 
