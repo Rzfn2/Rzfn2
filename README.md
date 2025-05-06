@@ -7,7 +7,7 @@
 ## 📜 About Me
 I am a dedicated cybersecurity graduate from **Asia Pacific University (APU)**, specialized in **network security, penetration testing, and digital forensics**. Proficient in **risk management, threat mitigation, and secure system architecture**, I have hands-on experience with tools such as **Wireshark, Metasploit, SIEM systems, IDS, IPS, network scanning, and system hardening**. 
 
-Currently, I am preparing for the **CompTIA Security+** and **eJPTv2** certifications, with a keen interest in specializing in **cloud security**. Passionate about continuous learning and problem-solving, I am eager to contribute to securing digital infrastructures.
+Currently, I am preparing for the **eJPTv2** certifications, with a keen interest in specializing in **cloud security**. Passionate about continuous learning and problem-solving, I am eager to contribute to securing digital infrastructures.
 
 ---
 
@@ -39,7 +39,8 @@ Currently, I am preparing for the **CompTIA Security+** and **eJPTv2** certifica
   📅 *Completion: December 2024*
   
 - **🔒 CompTIA Security+** 
-    📅 *Completion: May 2025*
+
+  📅 *Completion: May 2025*
   
 - **💻 eJPTv2 (eLearnSecurity Junior Penetration Tester v2)** (*In Progress*)
 
