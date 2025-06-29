@@ -42,7 +42,8 @@ Currently, I am preparing for the **eJPTv2** certifications, with a keen interes
 
   📅 *Completion: May 2025*
   
-- **💻 eJPTv2 (eLearnSecurity Junior Penetration Tester v2)** (*In Progress*)
+- **💻 eJPTv2 (eLearnSecurity Junior Penetration Tester v2)**
+   📅 *Completion: June 2025*
 
 
 ---
