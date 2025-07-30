@@ -22,6 +22,13 @@ As a **Cybersecurity Specialist**, I specialize in designing, securing, and opti
 
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/150121278" width="120" alt="My Credential Badge"> <img width="120" height="120" alt="comptia-security-ce-certification" src="https://github.com/user-attachments/assets/0c2ebd05-e9f5-4e48-b073-79fdd9734f87" />
 
+---
+
+## 📫 Contact Me
+
+📧 [Email](atbnr12@gmail.com)
+
+💼 [LinkedIn](https://www.linkedin.com/in/abdullah-banwair-1167a2272/)
 
 ---
 ## 🚀 Featured Projects
@@ -48,8 +55,6 @@ As a **Cybersecurity Specialist**, I specialize in designing, securing, and opti
 ![](https://github-profile-trophy.vercel.app/?username=Rzfn2&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-
-🚀 **Let's Connect & Collaborate!** If you're interested in cybersecurity, penetration testing, or network security, feel free to reach out! Looking forward to building and securing the digital world together. 🔒💻
 
 
 
